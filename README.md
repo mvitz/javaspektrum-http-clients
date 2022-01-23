@@ -6,6 +6,15 @@ These examples were written for my german [JavaSPEKTRUM](http://www.javaspektrum
 article "Der Praktiker: Java-HTTP-Clients im Vergleich - Viele Wege führen ins
 Web".
 
+You can read it online
+[here](https://www.innoq.com/de/articles/2022/01/java-http-clients/)
+or download as PDF
+[here](https://www.sigs.de/publications/download/Artikel/vitz_JS_05_21_hsvn.pdf).
+
+This artcile was translated into english as "A Comparison of Java HTTP Clients -
+Many Roads Lead to the Web"  and can be read
+[here](https://www.innoq.com/en/articles/2022/01/java-http-clients/).
+
 
 ## License
 
